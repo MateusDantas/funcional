@@ -1,7 +1,7 @@
 module Monads where
 
 {-
-  Dado os tipos abaixo que representa um robô em um espaço de 2 dimensões e os possiveis movimentos
+  Dado os tipos abaixo que representam um robô em um espaço de 2 dimensões e os possiveis movimentos
   que o robo pode fazer, implemente as funções especificadas abaixo utilizando a monad Maybe.
 
   LEFT: Movimenta o robo de uma posição (x,y) para (x-1,y)
